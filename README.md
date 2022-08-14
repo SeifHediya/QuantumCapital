@@ -24,9 +24,6 @@ Early-stage consumer and enterprise in:
 * Smart Homes
 * Waste Management
 
-
-
-
 ### Article :memo: ###
 [![HBCUvc welcomes its fifth—and largest—class of Venture Capital Fellows](https://user-images.githubusercontent.com/42880953/184517428-c823e176-d519-464c-9b81-e74d9dc11b12.png)
 ](https://blog.hbcu.vc/hbcuvc-welcomes-its-fifth-and-largest-class-of-venture-capital-fellows-5cade19616ff "HBCUvc welcomes its fifth—and largest—class of Venture Capital Fellows")
@@ -34,8 +31,9 @@ Early-stage consumer and enterprise in:
 ### Mentor :pushpin: ###
 * [Shane Kelly](https://www.linkedin.com/in/shanekellymg), Managing Partner for Wolverine Angels & Investor in Residence at HBCUvc
 
-
 ### Author :scroll: ### 
-* [Seif Hediya](https://www.linkedin.com/in/seifhediya)
+* [Seif Hediya](https://www.linkedin.com/in/seifhediya): vc@hediya.cc
 
+### Collaboration :bulb: ###
+If you are interested in partnering up, adoption, or sponsorship, please don't hesitate to reach out! 
 
