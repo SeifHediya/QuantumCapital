@@ -5,6 +5,10 @@ we help you from inception to success
 </p>
 
 ### What's Quantum Capital? :sunglasses: ###
-An investment thesis that caters to my passion of early stage startups + venture capital!
+An investment thesis that caters to my love of early stage startups + venture capital!
 A prototype for a soon-to-be project.
+
+### Rounds & Check size? 🤔 ###
+* Pre-seed to seed
+* Range from $100k - $2M
 
